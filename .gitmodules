@@ -1,3 +1,39 @@
 [submodule "smart-analyse"]
 	path = smart-analyse
 	url = https://github.com/whisper-xiang/smart-analyse
+[submodule "wechat-elder-care"]
+	path = wechat-elder-care
+	url = https://github.com/whisper-xiang/wechat-elder-care
+[submodule "springboot-dating-system"]
+	path = springboot-dating-system
+	url = https://github.com/whisper-xiang/springboot-dating-system
+[submodule "vue-pet-platform"]
+	path = vue-pet-platform
+	url = https://github.com/whisper-xiang/vue-pet-platform
+[submodule "apartment-management"]
+	path = apartment-management
+	url = https://github.com/whisper-xiang/apartment-management
+[submodule "smart-library-web"]
+	path = smart-library-web
+	url = https://github.com/whisper-xiang/smart-library-web
+[submodule "大学生社团管理系统"]
+	path = 大学生社团管理系统
+	url = https://github.com/whisper-xiang/web-based-club-management-system
+[submodule "基于web的个人智能记账系统"]
+	path = 基于web的个人智能记账系统
+	url = https://github.com/whisper-xiang/smart-ledger
+[submodule "基于Web的学校设备报修管理系统"]
+	path = 基于Web的学校设备报修管理系统
+	url = https://github.com/whisper-xiang/repair-system
+[submodule "基于Flask的城市景点信息分析与可视化系统"]
+	path = 基于Flask的城市景点信息分析与可视化系统
+	url = https://github.com/whisper-xiang/flask-city-sight-visualization
+[submodule "历史剧弹幕情感分析系统"]
+	path = 历史剧弹幕情感分析系统
+	url = https://github.com/whisper-xiang/bilstm-danmaku-sentiment-analysis
+[submodule "微信小程序的大学生暑期“三下乡”"]
+	path = 微信小程序的大学生暑期“三下乡”
+	url = https://github.com/whisper-xiang/youth-rural
+[submodule "个人事务-财务-日志一体化管理小程序"]
+	path = 个人事务-财务-日志一体化管理小程序
+	url = https://github.com/whisper-xiang/Personal-Manager-WeChatApp
