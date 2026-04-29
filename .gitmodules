@@ -1,0 +1,3 @@
+[submodule "smart-analyse"]
+	path = smart-analyse
+	url = https://github.com/whisper-xiang/smart-analyse
