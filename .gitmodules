@@ -37,3 +37,6 @@
 [submodule "个人事务-财务-日志一体化管理小程序"]
 	path = 个人事务-财务-日志一体化管理小程序
 	url = https://github.com/whisper-xiang/Personal-Manager-WeChatApp
+[submodule "智慧图书管理系统"]
+	path = 智慧图书管理系统
+	url = https://github.com/whisper-xiang/smart-library
